@@ -1,2 +1,2 @@
 # hello-world
-Test
+Going through the tutorial.
